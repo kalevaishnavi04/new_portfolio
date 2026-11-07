@@ -13,7 +13,7 @@ B.E. Information Technology (Honours – Data Science) student with hands-on exp
 - **About** — Background, mission & vision
 - **Experience** — Internships at Zidio Development & SSIT Pvt. Ltd.
 - **Education** — Academic qualifications
-- **Projects** — Mental Health Score Prediction App, ATS Resume Screening Analytics, QR Scan Attendance System, SOS Emergency Contact & Location Tracking
+- **Projects** — Mental Health Score Prediction App, ATS Resume Screening Analytics, QR Scan Attendance System
 - **Skills** — Backend, Frontend, ML/AI, Data & Architecture, Tools
 - **Certifications** — AWS Solutions Architecture, Power BI
 - **Contact** — Get in touch
